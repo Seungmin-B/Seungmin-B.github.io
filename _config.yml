@@ -95,7 +95,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/Seungmin-B"
+  github           : "Seungmin-B"
   google_plus      :
   keybase          :
   instagram        :
@@ -207,7 +207,7 @@ defaults:
   # _teaching
   - scope:
       path: ""
-      type: teaching
+      type: Research works
     values:
       layout: single
       author_profile: true
@@ -231,14 +231,6 @@ defaults:
       author_profile: true
       share: true
       comment: true
-  # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
-      share: true
 
 # Sass/SCSS
 sass:
